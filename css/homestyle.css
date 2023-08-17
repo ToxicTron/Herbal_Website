@@ -298,6 +298,7 @@ font
     #footer_logo
     {
         margin-bottom: 2rem;
+        align-items: center;
     }
 
     .website_rights
