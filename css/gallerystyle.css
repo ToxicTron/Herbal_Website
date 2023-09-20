@@ -358,7 +358,13 @@ body
   
 .thumbnail 
 {
-    width: 100%;
+    width: 100%;    
+    cursor: pointer;
+}
+
+.thumbnail:hover
+{
+    transform: scale(1.02);
 }
   
 .video-title 
@@ -368,6 +374,7 @@ body
     font-weight: 500;
     line-height: 20px;
     margin-bottom: 10px;
+    color: var(--white);
 }
   
 .video-info-grid 
@@ -446,5 +453,25 @@ body
     position: absolute;
     bottom: 8px;
     right: 5px;
+}
+
+
+.video-preview .thumbnail-row .active
+{
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height:auto;
+    width: 80%;
+    box-shadow: 0 0 0 100vh rgba(0,0,0,.7);
+    z-index: 1001;
+}
+
+.video-preview .thumbnail-row .active:hover
+{
+    transition: none;
+    transform: scale(1);
+    transform: translate(-50%, -50%);
 }
   
