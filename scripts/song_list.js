@@ -42,16 +42,13 @@ let All_song = [
       img: "images/Vir DIe Wolwe thumbnail.jpg",
       singer: "Herbal Gucci Ft Curvy The Great"
     }
-    
- ]; 
+    ]; 
  
  /*tracks*/
  let tracks = document.querySelector('.tracks');
  
  //creating a list or generating Html
- for (let i = 0; i < All_song.length; i++) {
- 
-   let Html = ` <div class="song">
+ for (let i = 0; i < All_song.length; i++) { let Html = ` <div class="song">
        <div class="img">
        <img src="${All_song[i].img}"/>
        </div>
