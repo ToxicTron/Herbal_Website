@@ -385,7 +385,7 @@ font
     height:auto;
     width: 80%;
     box-shadow: 0 0 0 100vh rgba(0,0,0,.7);
-    z-index: 1;
+    z-index: 999;
 }
 
 .main-container .video .active:hover
