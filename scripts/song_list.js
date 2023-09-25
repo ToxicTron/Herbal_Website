@@ -2,43 +2,43 @@
 let All_song = [
     {
       name: "01 - Tyd",
-      path: "songs/01.Herbal Gucci Ft Jimmy Nani - Tyd.mp3",
+      path: "/songs/01.Herbal Gucci Ft Jimmy Nani - Tyd.mp3",
       img: "/images/Vir DIe Wolwe thumbnail.jpg",
       singer: "Herbal-Gucci Ft Jimmy & Nani"
     },
     {
       name: "02 - Foute",
-      path: "songs/02.Herbal Gucci Ft Minette - Foute.mp3",
+      path: "/songs/02.Herbal Gucci Ft Minette - Foute.mp3",
       img: "/images/Vir DIe Wolwe thumbnail.jpg",
       singer: "Herbal-Gucci Ft Minette"
     },
     {
       name: "03 - Punchline Tot Die Son Op Kom",
-      path: "songs/03.Herbal Gucci Ft Curvy The Great & Willy Geezy - Punchline Tot Die Son Op Kom.mp3",
+      path: "/songs/03.Herbal Gucci Ft Curvy The Great & Willy Geezy - Punchline Tot Die Son Op Kom.mp3",
       img: "/images/Vir DIe Wolwe thumbnail.jpg",
       singer: "Herbal-Gucci Ft Curvy The Great & Willy Geezy"
     },
     {
       name: "04 - Hartloos",
-      path: "songs/04.Herbal Gucci - Hartloos.mp3",
+      path: "/songs/04.Herbal Gucci - Hartloos.mp3",
       img: "/images/Vir DIe Wolwe thumbnail.jpg",
       singer: "Herbal-Gucci"
     },
     {
       name: "05 - Bly Sterk",
-      path: "songs/05.Herbal Gucci Ft Riicky Walker - Bly Sterk.mp3",
+      path: "/songs/05.Herbal Gucci Ft Riicky Walker - Bly Sterk.mp3",
       img: "/images/Vir DIe Wolwe thumbnail.jpg",
       singer: "Herbal-Gucci Ft Riicky Walker"
     },
     {
       name: "06 - Skreeu Vir Help",
-      path: "songs/06.Herbal Gucci - Skreeu Vir Help.mp3",
+      path: "/songs/06.Herbal Gucci - Skreeu Vir Help.mp3",
       img: "/images/Vir DIe Wolwe thumbnail.jpg",
       singer: "Herbal-Gucci"
     },
     {
       name: "07 - Vêr Vir My",
-      path: "songs/07.Herbal Gucci Ft Curvy The Great - Vêr Vir My.mp3",
+      path: "/songs/07.Herbal Gucci Ft Curvy The Great - Vêr Vir My.mp3",
       img: "/images/Vir DIe Wolwe thumbnail.jpg",
       singer: "Herbal Gucci Ft Curvy The Great"
     }
