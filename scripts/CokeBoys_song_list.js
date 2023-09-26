@@ -79,12 +79,6 @@ let All_song = [
       singer: "Coke-Boys ft Luciano"
     },
     {
-      name: "02 - Free flow",
-      path: "songs/Coke Boys/Coke-Boys - Free flow.mp3",
-      img: "images/Coke Boys.jpg",
-      singer: "Coke-Boys"
-    },
-    {
       name: "14 - Turn it up",
       path: "songs/Coke Boys/Coke-Boys ft Skinny-Divas - Turn it up.mp3",
       img: "images/Coke Boys.jpg",
