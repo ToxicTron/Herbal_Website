@@ -62,7 +62,7 @@ let All_song = [
     },
     {
       name: "11 - 100 op 100",
-      path: "songs/Coke Boys/Coke-Boys - 100 op 100.mp3",
+      path: "songs/Coke Boys/Coke-Boys -100 op 100.mp3",
       img: "images/Coke Boys.jpg",
       singer: "Coke-Boys"
     },
