@@ -34,7 +34,7 @@ let All_song = [
       name: "06 - Moen my nie judge nie",
       path: "songs/Coke Boys/Coke-Boys - Moen my nie judge nie.mp3",
       img: "images/Coke Boys.jpg",
-      singer: "Coke-Boys"
+      singer: "Coke-Boys ft Yaki-B"
     },
     {
       name: "07 - My hood right",
