@@ -8,8 +8,8 @@ let All_song = [
     },
     {
       name: "02 - Foute",
-      path: "/songs/02.Herbal Gucci Ft Minette - Foute.mp3",
-      img: "/images/Vir DIe Wolwe thumbnail.jpg",
+      path: "songs/02.Herbal Gucci Ft Minette - Foute.mp3",
+      img: "images/Vir DIe Wolwe thumbnail.jpg",
       singer: "Herbal-Gucci Ft Minette"
     },
     {
